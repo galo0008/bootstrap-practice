@@ -1,0 +1,10 @@
+.banner{
+background: url(../images/main-banner.jpg) no-repeat center;
+background-size: cover;
+}
+
+.vision{
+    background: url(../images/vision.jpg) no-repeat center;
+    background-size: cover;
+
+}
